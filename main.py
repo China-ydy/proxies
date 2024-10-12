@@ -1,4 +1,4 @@
-url = 'https://proxycompass.com/cn/free-proxies/asia/china/#:~:text=%E5%85%8D%E8%B4%B9%E4%B8%AD%E5%9B%BD%E4%BB%A3%E7%90%86.%20%E6%B5%8F%E8%A7%88'
+url = 'https://xxx.com/cn/free-proxies/asia/china/#:~:text=%E5%85%8D%E8%B4%B9%E4%B8%AD%E5%9B%BD%E4%BB%A3%E7%90%86.%20%E6%B5%8F%E8%A7%88'
 test_url = 'https://httpbin.org'
 test_url_ip = 'https://httpbin.org/ip'
 true_url = 'https://ping0.cc'
